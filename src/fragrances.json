@@ -1,0 +1,291 @@
+[
+  {
+    "bottle-image": "https://cdn2.jomashop.com/media/catalog/product/b/u/burberry-ladies-burberry-her-edp-spray-34-oz-tester-fragrances-3614227693449.jpg",
+    "designer": "Burberry",
+    "name": "Her",
+    "scent-notes": "Dark Berries | Jasmine | Musk-Amber",
+    "description": "Burberry Her Eau de Parfum for women is an artful blend of berries elevated by spirited jasmine and violet and smoothed out with amber and musk. A multifaceted, magnetic fruity gourmand and the scent of freedom.",
+    "price": "$123 at Sephora",
+    "size": "1.6 oz/ 50 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf1K-Lgcq2_SfGuB-FPcQq1M3aNjm5WOm4ekZlT3zpZRB8LPD3fYlDEk4gwzocmpGhbOI&usqp=CAU",
+    "designer": "Valentino",
+    "name": "Donna Born In Roma",
+    "scent-notes": "Blackcurrant | Jasmine Grandiflorum | Bourbon Vanilla",
+    "description": "This is a warm floral fragrance inspired by Roman street style and edgy haute couture. A trio of jasmine flowers and sparkling blackcurrant fuse with warm vanilla and rich woods to create a scent that captures the essence of modern femininity.",
+    "price": "$130 at sephora",
+    "size": "1.7 oz/ 50 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://www.sephora.com/productimages/sku/s2371896-main-zoom.jpg",
+    "designer": "Yves Saint Laurent",
+    "name": "Libre",
+    "scent-notes": "Lavender | Orange Blossom | Musk Accord",
+    "description": "This is a bold and floral feminine fragrance for those who live by their own rules. It contains lavender essence from France combined with the sensuality of Moroccan orange blossom and a daring note of musk accord for a unique scent.",
+    "price": "$155 at sephora",
+    "size": "3.04 oz/ 90 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1678298974-1678225546-screen-shot-2023-03-07-at-4-45-22-pm-6407b07f01343.png?crop=0.994xw:1xh;center,top&resize=980:*",
+    "designer": "Yves Saint Laurent",
+    "name": "Black Opium",
+    "scent-notes": "Black Coffee | White Flowers | Vanilla",
+    "description": "This is a seductively intoxicating women’s fragrance with opening notes of adrenaline-rich coffee and sweet vanilla that recline into the softness of white flowers for a young, modern scent.",
+    "price": "$130 at sephora",
+    "size": "1.6 oz/ 50 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://www.sephora.com/productimages/sku/s2549350-main-zoom.jpg",
+    "designer": "Marc Jacobs Fragrances",
+    "name": "Perfect",
+    "scent-notes": "Daffodil | Almond Milk | Cashmeran",
+    "description": "This perfume opens with juicy notes of rhubarb and bright daffodil that reveal a comforting heart of almond milk and finish with a soft dry down of cedarwood and cashmeran. Modern, bright, and feminine, Perfect is an unconventional yet harmonious clash of fresh florals and calm, smoothing notes.",
+    "price": "$149 at sephora",
+    "size": "1 oz/ 30 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1678299390-screen-shot-2023-03-08-at-12-15-54-pm-6408d0e225519.png?crop=0.777xw:0.913xh;0.123xw,0.0245xh&resize=980:*",
+    "designer": "Xinu Copāla",
+    "name": "No. 2",
+    "scent-notes": "Pink pepper | Copal resin | Mesquite wood | Mexican vanilla beans",
+    "description": "Copála is an immersion to the mystic approach around the copal resin. The smoky mesquite woods contrasting the subtle powdery vanilla, underlined by a sharp pink pepper note to endure the smooth sweetness of golden copal. And endless rendition, a sensory devotion.",
+    "price": "$325 at sephora",
+    "size": "2.4 oz/ 71 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1607103082-jo_sku_L41501_1000x1000_0.png",
+    "designer": "Jo Malone",
+    "name": "Wood Sage & Sea Salt Cologne",
+    "scent-notes": "",
+    "description": "Escape the everyday along the windswept shore. Waves breaking white, the air fresh with sea salt and spray. Alive with the mineral scent of the rugged cliffs. Mingling with the woody earthiness of sage. Lively, spirited and totally joyful.",
+    "price": "$155 at sephora",
+    "size": "3.4 oz/ 100 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1678300086-Bois_2048x.png?crop=0.942xw:1xh;center,top&resize=980:*",
+    "designer": "Bois",
+    "name": "Commodity Bois",
+    "scent-notes": "Pimento Berries | Pink Pepper | Angelica | Orchid | Freesia | Jasmine | Bois de Cedar | Australian Sandalwood | Vanilla",
+    "description": "This seductive composition maintains the strength of woods while also exploring their softer side. Its modern blend of warm bois de cedar, Australian sandalwood and spicy pink pepper delivers an elegant, silk-like effect.",
+    "price": "$135 at sephora",
+    "size": "3.4 oz/ 100 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1678300465-21873812_fpx.jpg?crop=1.00xw:0.821xh;0,0.0736xh&resize=980:*",
+    "designer": "Guerlain",
+    "name": "Aqua Allegoria Mandarine Basilic",
+    "scent-notes": "Lemon | Mandarin | Orange | Blackcurrant | Basil |Orange Blossom | Cedarwood | Green Tea",
+    "description": "A fresh, unisex fragrance invites you to a sensory escape to the Italian countryside. The weather is warm and sunny, the air has the aromatic scent of fresh basil. The Aqua Allegoria fragrance collection celebrates the wonders of the world.",
+    "price": "$110 at sephora",
+    "size": "2.5 oz/ 74 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1678300810-Bastide-ProductImage-EDT100mlFigueAmour-1020x1200-BG-Badge_800x.progressive.jpg?crop=0.739xw:0.628xh;0.146xw,0.185xh&resize=980:*",
+    "designer": "Bastide",
+    "name": "FIGUE AMOUR",
+    "scent-notes": "Bergamot | Cardamom | Pink Berries | Fig | Violet Petals | Orris | Creamy Sandalwood | Crisp Woods | Musk",
+    "description": "In France, nearly all of the figs come from Provence.  Fig trees, with their broad, nurturing branches, dot the lush countryside, yielding juicy, succulent fruit.  Even more celebrated are the sweeping fig leaves that provide a comforting haven of respite, perfect for a mid-day sieste in the shade of the Mediterranean sun.  Figue Amour is a love note to these majestic fig trees whose leaves create a moment of pause for the soul and quiet intimacy with nature.",
+    "price": "$130 at sephora",
+    "size": "3.4 oz/ 100 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1678301359-417cddcf-12eb-48b4-8aaa-458842cc60e9.jpg?crop=1.00xw:0.653xh;0,0.142xh&resize=980:*",
+    "designer": "Kilian Paris",
+    "name": "Voulez-vous coucher avec Moi",
+    "scent-notes": "Ylang-ylang | Gardenia | Sandalwood",
+    "description": "Elusive and elegant, this scent lasts well into the evening, with its radiant gardenia headspace and ylang-ylang, blooming with tantalizing tuberose. Bright neroli, orange blossom and mandarin essence beautifully balance an overdose of sensual sandalwood. A tender touch of vanilla softly impresses into memory. Created by Alberto Morillas.",
+    "price": "$275 at sephora",
+    "size": "1.7 oz/ 50 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1678301150-screen-shot-2023-03-08-at-12-44-44-pm-6408d7a53cb7c.png?crop=0.838xw:0.782xh;0.0913xw,0.197xh&resize=980:*",
+    "designer": "Hermés",
+    "name": "Un Jardin sur le Toit",
+    "scent-notes": "Apple | Pear | Magnolia",
+    "description": "Notes of apple, pear, and magnolia define this light and airy perfume, creating a garden of feasting and joyfulness where apple trees overhang wild grasses.",
+    "price": "$79 at sephora",
+    "size": "1 oz/ 30 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://clothbase.s3.amazonaws.com/uploads/662ee9bd-249e-4ede-8318-34d0c55c0103/image.jpg",
+    "designer": "Tom Ford",
+    "name": "Soleil Neige",
+    "scent-notes": "Bergamot | Jasmine Flower | Lemon",
+    "description": "This fragrance‘s fresh bergamot, sumptuous pale blooms, and the warmth of skin-gripping musk evoke a sojourn to an alpine getaway where winter escapades play out under an iridescent sky. This perfume mimics the serene shimmer of sun on snow and the cool reflection of winter sun brightening with glacial light.",
+    "price": "$295 at sephora",
+    "size": "1.7 oz/ 50 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://m.media-amazon.com/images/I/61JdQwe0ZnL.jpg",
+    "designer": "Tom Ford",
+    "name": "Costa Azzurra Parfum",
+    "scent-notes": "Cypress Oilb | Oakwood Extract | Salty Amber",
+    "description": "An escape into the hedonistic pleasures of the Mediterranean, Costa Azzurra Parfum deepens the original fragrance with magnified woods and aromatics.",
+    "price": "$235 at sephora",
+    "size": "3.4 oz/ 100 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://www.aeliadutyfree.co.nz/media/catalog/product/1/0/100894632_1_b6b2.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+    "designer": "Gucci",
+    "name": "Guilty Pour Homme Parfum",
+    "scent-notes": "Lavender | Orange Flower | Cedarwood",
+    "description": "A woody, aromatic, ambery fragrance that magnifies the true essence of the Gucci Guilty Pour Homme signature. A new and intense vision of masculinity, Gucci Guilty Parfum Pour Homme opens with a lighter, milder, and more modernized aromatic hook.",
+    "price": "$212 at sephora",
+    "size": "3 oz/ 89 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://www.bykilian.com/media/images/products/387x450/kl_sku_N45201_387x450_0.jpg",
+    "designer": "Kilian Paris",
+    "name": "Apple Brandy Eau de Parfum",
+    "scent-notes": "Bergamot | Pineapple | Cardamon",
+    "description": "The fresh opening of Apple Brandy unfolds into the perfume’s core: a distinctive apple brandy accord, in which a crisp fruity blend harmonizes with brandy—using notes of rum for the liquor aspect, moss, and vanilla. The scent carries sophistication into the night with cedarwood and Ambroxan.",
+    "price": "$230 at sephora",
+    "size": "1.7 oz/ 50 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://www.yslbeauty.fr/on/demandware.static/-/Sites-ysl-master-catalog/default/dwd8bddc92/square/Packshots/Fragrance/For-him/WW-50009YSL/3614271990020_L_HOMME_COLOGNE_BLEUE_60ml-v2.jpg",
+    "designer": "Yves Saint Laurent",
+    "name": "L'Homme Cologne Bleue",
+    "scent-notes": "Bergamot | Marine Accord | Cardamom",
+    "description": "Cologne Bleue is a fresh and aquatic interpretation of the iconic L'Homme signature. Bergamot sharpens an aquatic marine accord that is underlined by a sophisticated cedarwood. Dive into the coolness of a fresh citrus experience with a cool twist on the classic sophistication of L’Homme.",
+    "price": "$108 at sephora",
+    "size": "3.3 oz/ 100 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://m.media-amazon.com/images/I/314s0a6+RLL.jpg",
+    "designer": "Hermès",
+    "name": "Terre d’Hermès Pure Perfume",
+    "scent-notes": "Benzoin | Cedar | Shiso",
+    "description": "The warmth and density of wood combine with the softness of benzoin and the sparkle of shiso.",
+    "price": "$156 at sephora",
+    "size": "2.5 oz/ 74 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://www.armani.com/variants/images/38063312420521967/F/w400.jpg",
+    "designer": "Armani Beauty",
+    "name": "My Way",
+    "scent-notes": "Iris | Tuberose | Vanilla",
+    "description": "This long-lasting floral perfume opens with citrusy notes of bergamot oil blended with orange blossom. An intense heart is born from the contrast of velvety tuberose and fresh iris, and the woody base is enhanced with creamy notes of cedarwood and vanilla magnified by white musk.",
+    "price": "$110 at sephora",
+    "size": "1 oz/ 30 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://www.sephora.com/productimages/sku/s2406247-main-zoom.jpg",
+    "designer": "Hermès",
+    "name": "H24 Eau de Parfum",
+    "scent-notes": "Clary Sage | Moss | Sclarene",
+    "description": "A woody aromatic, H24 Eau de Parfum draws on the generous botanical power of enveloping sage, dense, high-tech moss, and warm and vibrant sclarene.",
+    "price": "$110 at sephora",
+    "size": "1.7 oz/ 50 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://m.media-amazon.com/images/I/51wIwASOmTL._SX342_.jpg",
+    "designer": "Dolce&Gabbana",
+    "name": "K by Dolce & Gabbana",
+    "scent-notes": "Patchouli | Cedarwood | Pimento | Sicilian Lemon | Blood Orange",
+    "description": "Charismatic and authentic, this fragrance leaves a blazing trail of seduction enveloped by a blend of spicy Chili Pepper, French Lavender, and Haitian Vetiver. A glorious olfactive journey amongst the woody and aromatic notes of the Mediterranean.",
+    "price": "$84 at sephora",
+    "size": "1.6 oz/ 50 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://i.pinimg.com/originals/cf/4f/7f/cf4f7f94387fb3a5b201c4e576358df5.jpg",
+    "designer": "Aerin",
+    "name": "Hibiscus Palm",
+    "scent-notes": "Lotus Flower Accord | Hibiscus Palm Accord |Tiare Absolute",
+    "description": "This parfum is formulated with accords of lotus flower and hibiscus palm that mingle with ylang-ylang and exotic ginger. Frangipani also blends with a heart of fragrant white blossoms wrapped in the velvety warmth of coconut milk, vanilla, and musk. Hibiscus palm captures the island scent of brilliant sunshine on a lush beach.",
+    "price": "$145 at sephora",
+    "size": "1.7 oz/ 50 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/12539114_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+    "designer": "Jo Malone London",
+    "name": "Jasmine Sambac & Marigold Cologne Intense",
+    "scent-notes": "Marigold | Jasmine | Benzoin",
+    "description": "Serene fields of jasmine sambac, pure white buds plucked at dawn, coveted gems of the colorful Indian flower market glowing against vibrant marigold and exotic ylang-ylang. A beautiful contrast of garlands entwined with rich benzoin resin and enveloped by the warmth of vanilla and amber.",
+    "price": "$220 at sephora",
+    "size": "3.4 oz/ 100 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&itemId=1595874-847&recipeName=680",
+    "designer": "Tom Ford",
+    "name": "Oud Wood",
+    "scent-notes": "Rare Oud Wood | Sandalwood | Chinese Pepper",
+    "description": "A composition of exotic, smoky woods including rare oud, sandalwood, rosewood, eastern spices, and sensual amber—revealing oud‘s rich and compelling power.",
+    "price": "$400 at sephora",
+    "size": "3.4 oz/ 100 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://fimgs.net/mdimg/perfume/375x500.218.jpg",
+    "designer": "Dior",
+    "name": "Poison",
+    "scent-notes": "Coriander | Tuberose | Opoponax",
+    "description": "Some perfumes are born a myth. Heady, mysterious, and revolutionary since its creation, Poison is Dior’s ultimate weapon of seduction. Its exceptional, exotic alchemy is composed of a rich blend of spicy, fruity, and amber notes warmed by honey and musk—an unforgettable fragrance.",
+    "price": "$80 at sephora",
+    "size": "1 oz/ 30 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://fimgs.net/mdimg/perfume/375x500.60690.jpg",
+    "designer": "Guerlain",
+    "name": "Shalimar",
+    "scent-notes": "Bergamot | Powder | Iris | Vanilla | Amber",
+    "description": "The queen of exotic Oriental perfumery, this beautifully feminine fragrance is an everlasting classic. Its voluptuous base of powdery, sweet vanilla embraces warm notes of incense and amber. Opulent and tenacious, the seductive appeal of Shalimar endures.",
+    "price": "$125 at sephora",
+    "size": "1.6 oz/ 50 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://cdn.7cart.com/i/o/aHR0cHM6Ly93d3cudGhlcGVyZnVtZWRjb3VydC5jb20vSW1hZ2VzL3NreWxhcmNvY29udXQuanBn0.jpg",
+    "designer": "Skylar",
+    "name": "Coconut Cove",
+    "scent-notes": "Bergamot | Coconut | Ambrox",
+    "description": "This is a fragrance that transports your spirit to an exotic locale. The notes of creamy coconut mingles with blooms of jasmine and gardenia for an intoxicating, yet tranquil blend. Coconut Cove is a calming, yet sensual perfume to inspire you to chart your own path.",
+    "price": "$90 at sephora",
+    "size": "1.7 oz/ 50 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://fimgs.net/mdimg/perfume/375x500.29803.jpg",
+    "designer": "Aerin",
+    "name": "Rose De Grasse",
+    "scent-notes": "Rose Centifolia | Rose Otto Bulgarian | Rose Absolute",
+    "description": "The rose is a timeless symbol of beauty and femininity. Like an original piece of art, Rose de Grasse is meticulously crafted with an artisanal attention to detail. At its heart is a fusion of roses including the hundred-petaled rose centifolia, hand-picked in Grasse—the French capital of perfumery since the 16th century where the history of fragrance is art.",
+    "price": "$360 at sephora",
+    "size": "3.4 oz/ 100 mL Eau de Parfum"
+  },
+
+  {
+    "bottle-image": "https://fimgs.net/mdimg/perfume/375x500.12928.jpg",
+    "designer": "Jo Malone London",
+    "name": "Oud & Bergamot Cologne Intense",
+    "scent-notes": "Bergamot | Cedarwood | Oud",
+    "description": "Precious oud, reframed. The mysterious, smoky character of this revered wood, central to Middle Eastern fragrance traditions, radiates with the clarity of crisp bergamot and orange. Hypnotic and alluring.",
+    "price": "$220 at sephora",
+    "size": "3.4 oz/ 100 mL Eau de Parfum"
+  }
+]

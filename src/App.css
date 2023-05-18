@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+}
+
+.title {
+  font-family: 'Cormorant Upright', serif;
+  font-size: 50px;
+  font-weight: 100;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.blurb {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  justify-content: center;
+  line-height: 24px;
+  width: 50%; 
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+}
+
+.banner-image {
+  display: flex;
+  margin: auto;
+  max-width: 50%;
+  max-height: 100%;
+}
+
+.fragrance-list {
+  display: grid;
+  height: 1000px;
+  row-gap: 10px;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 50px 50px 50px auto;
+  padding: 10px;
+  margin: auto 20% auto 20%;
+}
+
+.bottle-image {
+  height: auto;
+  width: 500px;
+  grid-column: 1;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+
+.fragrance-designer {
+  font-family: 'Cormorant Upright', serif;
+  font-size: 40px;
+  grid-column: 2;
+  grid-row: 2;
+}
+
+.fragrance-name {
+  font-family: 'Cormorant Upright', serif;
+  font-size: 30px;
+  grid-column: 2;
+  grid-row: 3;
+}
+
+.price-size {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+  grid-column: 2;
+  grid-row: 4;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.description {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row: 5;
+  list-style: none;
+}
+
+.price {
+  background-color: aquamarine; 
+  padding: 10px; 
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+.nav {
+  display: flex;
+}
+
+.logo {
+  display: flex;
+  margin: auto;
+  max-width: 50%;
+  max-height: 100%;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  color: rgb(120, 32, 0);
+  list-style: none;
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 20px; 
+  margin-top: 0;
+  text-transform: uppercase;
+  border-bottom: 1px solid rgb(120, 32, 0)
+}
+
+#home {
+  margin-right: 30px;
+}
+
+#restaurant {
+  margin-right: 30px;
+}
+
+#travel {
+  margin-right: 30px;
+}
+
+#fashion {
+  margin-right: 30px;
+}
+
+#books {
+  margin-right: 30px;
+}
